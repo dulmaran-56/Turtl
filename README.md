@@ -220,4 +220,4 @@ Turtl is offered as a **complete free version** with all features and updates in
 Start organizing your life today by downloading **Turtl**! Experience the power of privacy-focused productivity at your fingertips.
 
 ---
-**Last updated:** 2026-09-27 21:44:30 UTC
+**Last updated:** 2026-09-28 00:08:02 UTC
